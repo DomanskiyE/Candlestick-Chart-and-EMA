@@ -6,7 +6,7 @@ This project is a chart plotter that reads data from a CSV file, aggregates the 
 
 To use this project, follow the steps below:
 
-- [ ] Clone the repository: git clone https://github.com/DomanskiyE/Candlestick-Chart-and-EMA.git
+- [ ]  Clone the repository: git clone https://github.com/DomanskiyE/Candlestick-Chart-and-EMA.git
 - [ ] Install the required dependencies from requirements: pip install requirements.txt
 - [ ] Run tests before the start: pytest -s -v
 - [ ] Run the main.py file: python main.py
